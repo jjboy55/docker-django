@@ -1,4 +1,4 @@
-<img src="markdown/docker-logo-blue.png" alt="Docker whale" style="width: 100%;">
+<img src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Logo-700x394.png" alt="Docker whale" style="width: 100%;">
 
 # Django Boilerplate Application
 
