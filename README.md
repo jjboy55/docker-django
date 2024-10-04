@@ -1,6 +1,6 @@
 <img src="https://static.codingforentrepreneurs.com/media/cfe-blog/django-on-docker/Django_on_Docker.jpg" alt="Docker whale" style="width: 100%;">
 
-# Django Boilerplate Application. 
+# Django Boilerplate Application.  
 
 This is a boilerplate Django application, containerized using Docker, to kickstart your web development projects. The project includes a basic structure with essential configurations and a few example pages.
 
