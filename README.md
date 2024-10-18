@@ -6,7 +6,7 @@ This is a boilerplate Django application, containerized using Docker, to kicksta
 
 ## Features
 
-- **Django**: Main project setup with a `core` app.
+- **Django**: Main project setup with a `core` app. 
 - **Home View**: A simple home page view and URL routing.
 - **About Page**: Additional about page for demonstration.
 - **Docker**: Containerized environment for easy setup and deployment.
