@@ -1,4 +1,4 @@
-<img src="https://static.codingforentrepreneurs.com/media/cfe-blog/django-on-docker/Django_on_Docker.jpg" alt="Docker whale" style="width: 100%;">
+<img src="https://static.codingforentrepreneurs.com/media/cfe-blog/django-on-docker/Django_on_Docker.jpg" alt="Docker whale" style="width: 100%;"> 
 
 # Django Boilerplate Application.
 
