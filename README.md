@@ -10,7 +10,7 @@ This is a boilerplate Django application, containerized using Docker, to kicksta
 - **Home View**: A simple home page view and URL routing.
 - **About Page**: Additional about page for demonstration.
 - **Docker**: Containerized environment for easy setup and deployment.
-- **Docker Debugger**: Configured for debugging the application within the Docker container.
+- **Docker Debugger**: Configured for debugging the application within the Docker container. 
 
 ## Getting Started
 
