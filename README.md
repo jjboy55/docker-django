@@ -4,7 +4,7 @@
 
 This is a boilerplate Django application, containerized using Docker, to kickstart your web development projects. The project includes a basic structure with essential configurations and a few example pages. 
 
-## Features
+## Features 
 
 - **Django**: Main project setup with a `core` app. 
 - **Home View**: A simple home page view and URL routing.
